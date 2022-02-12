@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @qbsevda
 - 👀 I’m interested in aws cloud engineering and DevOps Engineering
-- 🌱 I’m currently learning Linux, Python, Git, 
+- 🌱 I’m currently learning Linux, Python, Git, AWS Services, Scripting
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
