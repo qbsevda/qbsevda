@@ -3,7 +3,7 @@
 <h3 align="center">Hey there, I'm Sevda  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 <h3 align="center">Join to my DEVOPS Journey
 
-<a href="#"><img width="50%" height="auto" src="![image](https://user-images.githubusercontent.com/96360040/158347720-eccfe991-1374-49d0-a3b7-3047b362fe7c.png)" height="75px"/></a>
+<a href="#"><img width="50%" height="auto" src="![image]()" height="75px"/></a>
 
  <h3 align="center"> <img src="https://user-images.githubusercontent.com/96360040/159213110-2fdaf4e9-4a7d-4d47-9fc2-80e08b528d57.gif" width="800">
    
@@ -33,14 +33,14 @@
  [<img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Instagram-Icon.png/600px-Instagram-Icon.png?20190314235631" background-color="white" alt="instagram" height="30" width="40" />](https://www.instagram.com/sevdanj/)
  [<img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/512px-Gmail_icon_%282020%29.svg.png?20201210105308" background-color="white" alt="instagram" height="30" width="40" />](mailto:sevdanj@gmail.com)
 
-<p><img  align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HRNGR&langs_count=10&theme=cobalt&layout=compact" alt="Sevda" /></p>
+<p><img  align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=qbsevda&langs_count=10&theme=cobalt&layout=compact" alt="Sevda" /></p>
 <br><br>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=HRNGR&show_icons=true&theme=cobalt" alt="Sevda" /></p>
  
   
-[ <p align="right"> ![](https://img.shields.io/badge/dynamic/json?color=000000&label=GitHub&query=%24.data.totalSubs&suffix=%20followers&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dgithub%26queryKey%3DHRNGR)](https://github.com/qbsevda) <img alt="Coding" width="90" height="19" src="https://komarev.com/ghpvc/?username=HRNGR&label=Profile%20views&color=129e00&style=plastic" alt="Sevda" /> </p> 
+[ <p align="right"> ![](https://img.shields.io/badge/dynamic/json?color=000000&label=GitHub&query=%24.data.totalSubs&suffix=%20followers&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dgithub%26queryKey%3DHRNGR)](https://github.com/qbsevda) <img alt="Coding" width="90" height="19" src="https://komarev.com/ghpvc/?username=qbsevda&label=Profile%20views&color=129e00&style=plastic" alt="Sevda" /> </p> 
 <hr> 
  <!---
-HRNGR/HRNGR is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+qbsevda/qbsevda is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
