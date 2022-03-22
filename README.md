@@ -2,7 +2,7 @@
 ![snake svg](https://github.com/qbsevda/qbsevda/blob/output/github-contribution-grid-snake.svg)
 <h3 align="center">Hey there, I'm Sevda
 <h3 align="center">Join my DEVOPS Journey
- <h1 align="center"> <img src="https://worklogichr.com/sites/default/files/styles/blog_760x442/public/teamworkteamw.jpg?itok=iQ5Gv2wX" width="500">
+ <h1 align="center"> <img src="https://worklogichr.com/sites/default/files/styles/blog_760x442/public/teamworkteamw.jpg?itok=iQ5Gv2wX" width="600">
 
  
 
@@ -10,7 +10,7 @@
 
 👋 Hi, I’m Sevda
 
-👀 I’m interested in aws cloud engineering and DevOps Engineering
+ 👀 I’m interested in aws cloud engineering and DevOps Engineering</n>
 🌱 I’m currently learning AWS, DevOps, Linux, Python, Git, AWS Services, Scripting
 - 👀 I’m currently learning AWS and DevOps 
 - 💞️ I’m looking to collaborate on DevOps;
