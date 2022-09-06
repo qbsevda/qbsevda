@@ -10,9 +10,8 @@
 
 👋 Hi, I’m Sevda
 
-- 👀 I’m interested in aws Cloud Engineering and DevOps Engineering
+- 👀 I’m interested in aws Cloud Engineering and DevOps Engineering roles.
 - 🌱 I’m currently learning AWS, DevOps, Linux, Python, Git, AWS Services, Scripting 
-- 👀 I’m currently learning AWS and DevOps 
 - 💞️ I’m looking to collaborate on DevOps;
 ----------------
 <h3 align="center"> <img src="https://media.itpro.com/image/private/s--dswUdDmV--/v1572870716/itpro/images/dir_248/it_photo_124198.jpg" width="400">
