@@ -6,12 +6,12 @@
 
  
 
-<h3 align="center"> <img src="https://herochampion.files.wordpress.com/2011/06/about-me.jpg" width="150">
+<h3 align="left"> <img src="https://herochampion.files.wordpress.com/2011/06/about-me.jpg" width="150">
 
 👋 Hi, I’m Sevda
 
 - 👀 I’m interested in aws Cloud Engineering and DevOps Engineering roles.
-- 🌱 I'd love to keep learning AWS, DevOps, Linux, Python, Git, AWS Services, Scripting 
+- 🌱 I love to keep learning AWS, DevOps, Linux, Python, Git, AWS Services, Scripting 
 - 💞️ I’m looking to collaborate on DevOps;
 ----------------
 <h3 align="center"> <img src="https://media.itpro.com/image/private/s--dswUdDmV--/v1572870716/itpro/images/dir_248/it_photo_124198.jpg" width="400">
